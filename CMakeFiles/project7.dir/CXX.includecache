@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/Customer.h
+UTString.h
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/UTString.h
+
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/CustomerDB.h
+UTString.h
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/UTString.h
+Customer.h
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/Customer.h
+
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/Project7.cpp
+stdio.h
+-
+iostream
+-
+UTString.h
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/UTString.h
+Customer.h
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/Customer.h
+CustomerDB.h
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/CustomerDB.h
+
+/Users/deepanshisharma/312_Projects/project7/Project7_starter_files/UTString.h
+stdlib.h
+-
+stdint.h
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/project7.dir/Project7_starter_files/CustomerDB.cpp.o CMakeFiles/project7.dir/Project7_starter_files/main.cpp.o CMakeFiles/project7.dir/Project7_starter_files/Project7.cpp.o  -o project7 

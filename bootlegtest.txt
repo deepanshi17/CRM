@@ -1,0 +1,121 @@
+Inventory Bottles 100 
+Inventory Rattles 50 
+Inventory Diapers 200 
+   
+Purchase Bob Bottles 1
+Purchase Joe Bottles 1
+Purchase Sally Bottles 1
+Purchase Steve Bottles 1
+Purchase Jim Bottles 1
+Purchase Carl Bottles 1
+Purchase Max Bottles 1
+Purchase Cameron Bottles 1
+Purchase Matthew Bottles 1
+Purchase Paul Bottles 1
+Purchase Leo Bottles 1
+Purchase Mini Bottles 1
+Purchase Dan Bottles 1
+Purchase Jimmy Bottles 1
+Purchase John Bottles 1
+Purchase Ben Bottles 1
+Purchase Jerry Bottles 1
+Purchase Mike Bottles 1
+Purchase Ike Bottles 1
+Purchase Harry Bottles 1
+Purchase Thomas Bottles 1
+Purchase George Bottles 1
+Purchase Matthias Bottles 1
+Purchase Toby Bottles 1
+Purchase Andrew Bottles 1
+Purchase Franklin Bottles 1
+Purchase Winston Bottles 1
+Purchase Joseph Bottles 1
+Purchase Adolf Bottles 1
+Purchase Benito Bottles 1
+Purchase Hideki Bottles 1
+Purchase Lilli Bottles 1
+Purchase Lilly Bottles 1
+Purchase Sam Bottles 1
+Purchase Christian Bottles 1
+Purchase Cristian Bottles 1
+Purchase Christian Bottles 1
+Purchase Zach Bottles 1
+Purchase TayK Bottles 1
+Purchase Adam Bottles 1
+Purchase Eve Bottles 1
+
+Summarize 
+
+Purchase Eddy Bottles 1
+Purchase Murphie Bottles 1
+Purchase Gianna Bottles 1
+Purchase Stefano Bottles 1
+Purchase Kimmy Bottles 2
+Purchase Kim Bottles 1
+Purchase Nellie Bottles 1
+Purchase Mellie Bottles 1
+Purchase Smelly Bottles 1
+Purchase Kelly Bottles 1
+Purchase KQLY Bottles 1
+Purchase Franklin Bottles 1
+Purchase Billy Bottles 1
+Purchase Cobb Bottles 1
+   
+  
+   
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+Purchase Cobb Bottles 1
+   
+   
+Purchase Dumbo Bottles 1
+Purchase Dumbo Rattles 23
+Purchase Dumbo Diapers 12
+
+Inventory Diapers 50 
+   
+Summarize   
+Quit   
